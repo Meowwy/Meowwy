@@ -1,6 +1,6 @@
 ## 🧵🧶 Casual Cat
 
-I do fun projects. Though non-active here as much yet.
+I do fun projects.
 
 <!--
 **Meowwy/Meowwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
